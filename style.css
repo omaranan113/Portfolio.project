@@ -22,7 +22,7 @@ body {
   }
   
   .top-bar a {
-    color: var(--third-colour);
+    color: var(--secondry-colour);
     margin-left: 15px;
     text-decoration: none;
     font-weight: bold;
